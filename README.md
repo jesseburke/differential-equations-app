@@ -27,9 +27,7 @@ https://www.maths.usyd.edu.au/u/jburke/directionFieldGrapher
 The raw ingredients are [React](https://reactjs.org/), [ThreeJS](https://threejs.org/), and [jotai](https://github.com/pmndrs/jotai), with [Tailwind](https://tailwindcss.com/) for styling
 and [Reakit](https://reakit.io/) for an accessible modal. 
 
-The program is structured as follows:
-
-The entire page and program is a single React component named App,
+The program is a single React component named App,
 with the following structure, which is explained further below:
 ```javascript
 function App() {
